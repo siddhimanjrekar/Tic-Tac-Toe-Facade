@@ -68,11 +68,3 @@ class Game {
 
 module.exports = Game.newGame; 
 
-// const g1 = Game.newGame("Rohit", "Sabat");
-// console.log(g1.constructor.name);
-
-// g1.play(0);
-// g1.play(2);
-// g1.play(3);
-// g1.play(5);
-// g1.play(6);
